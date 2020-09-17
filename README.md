@@ -1,4 +1,4 @@
-# StatisticalLearning2_Proyecto Final
+# Statistical Learning 2 Proyecto Final
 
 ### Parte 1 Proyecto Final Statistical Learning 2
 
@@ -30,3 +30,15 @@ El repositorio consta de:
 5. Carpeta de Imágenes (utilizadas para mostrar la fase de experimentación en TensorBoard dentro del notebook).
 6. Carpeta de Resultados "M+VanGogh" con el progreso de una transferencia de estilo cada 100 iteraciones.
 7. Carpeta de Resultados "SF+Cubism" con el progreso de otra transferencia de estilo cada 1000 iteraciones.
+
+### Parte 3 Proyecto Final Statistical Learning 2
+
+La Parte No. 3 del Proyecto Final del Curso corresponde al uso de Redes Neuronales Recurrentes RNN. Se propuso y se aprobó el trabajo sobre el paper de "ELMo Embeddings" (aprovechando Transfer Learning para hacer embeddings de palabras) y alimentar una Red Neuronal Recurrente Bidireccional del tipo BiLSTM para Análisis de Sentimientos sobre un dataset aprobado de reviews de imdb.com, yelp.com y amazon.com. En este caso, un clasificador de reviews positivos / negativos. Se utiliza Keras.
+
+El repositorio consta de:
+1. Notebook "Parte3.ipynb"
+2. Carpeta de Checkpoints, donde se guarda el modelo cada ciertas iteraciones con string de configuración, con el objetivo de evidenciar que se guarda el progreso del entrenamiento. Se utiliza Keras Callbacks.
+3. Carpeta "dataset" conteniendo los archivos de reviews utilizados.
+4. Carpeta con LOGS de TensorBoard
+5. Carpeta de Imágenes (utilizadas para mostrar la fase de experimentación en TensorBoard dentro del notebook).
+6. Modelo Entrenado Final "model_elmo_weights.h5"
