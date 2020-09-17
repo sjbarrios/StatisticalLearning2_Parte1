@@ -1,5 +1,6 @@
-# StatisticalLearning2_Parte1
-Parte 1 Proyecto Final Statistical Learning 2
+# StatisticalLearning2_Proyecto Final
+
+### Parte 1 Proyecto Final Statistical Learning 2
 
 Este repositorio presenta la Parte No. 1 del Proyecto Final del Curso, correspondiente a el diseño de una FeedForward Neural Network.
 
