@@ -1,4 +1,10 @@
+Universidad Galileo
+PAPD - Sección V
+Sergio José Barrios Martínez
+Carnet No. 19012765
+
 # Statistical Learning 2 Proyecto Final
+
 
 ### Parte 1 Proyecto Final Statistical Learning 2
 
