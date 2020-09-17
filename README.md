@@ -42,3 +42,6 @@ El repositorio consta de:
 4. Carpeta con LOGS de TensorBoard
 5. Carpeta de Imágenes (utilizadas para mostrar la fase de experimentación en TensorBoard dentro del notebook).
 6. Modelo Entrenado Final "model_elmo_weights.h5"
+
+### Resumen de Papers de Redes Convolucionales
+En esta sección, se incluye el notebook que contiene los detalles más importantes de los papers de ConvNets vistos en el curso, y adicional, detalle sobre el utilizado para la parte 2 del proyecto, relacionado con redes convolucionales.
