@@ -1,0 +1,3 @@
+En esta sección de Checkpoints, los modelos guardados tienen 78 MB de tamaño cada uno.
+Lamentablemente GitHub solamente permite subir archivos de 25 MB máximo. Con el objetivo de poder mostrar la evidencia de los checkpoints y ahorrar espacio, 
+se muestra una imagen de los archivos generados. Los archivos pueden solicitarse con gusto a "sergio.barrios@galileo.edu"
